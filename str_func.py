@@ -1,3 +1,3 @@
 def func(a):
-    '''Returns str upper case'''
+    '''Returns str upper cased'''
     return a.upper()
