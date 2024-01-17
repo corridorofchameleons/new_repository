@@ -1,4 +1,4 @@
-def func(a):
+def func_1(a):
     '''Returns str upper case'''
     return a.upper()
 
